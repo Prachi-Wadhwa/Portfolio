@@ -206,7 +206,7 @@
               <p>Senior Secondary Education</p>
               <pre>   G.N.K. Sr. Sec. School</pre>
               <pre>   2019-2021</pre>
-              <pre>   91.8%</pre>
+              <pre>   87.0%</pre>
               <p>Graduation</p>
               <pre>   B.E. CSE</pre>
               <pre>   Chitkara University</pre>
