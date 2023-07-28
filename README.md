@@ -182,7 +182,7 @@
   </style>
   <body>
     <div class="first">
-      <p class="intro">Hello, I'm Prachi Wadhwa.<br />I'm a designer.</p>
+      <p class="intro">Hello, I'm Prachi Wadhwa.<br />I'm a developer.</p>
       <p class="intro1">
         I am a beginner and wish to achieve my highest potent!
       </p>
